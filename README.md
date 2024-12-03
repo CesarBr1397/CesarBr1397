@@ -4,7 +4,7 @@
 
 <ul>
     <li>🔭 <strong>Trabajo Actualmente en:</strong> UTEL Universidad, donde estoy inmerso en el fascinante mundo de la programación y la ciencia de datos.</li>
-    <li>🌱 <strong>Me encuentro inmerso en el aprendizaje de:</strong> Programación en Java y Python, así como también explorando HTML y CSS.</li>
+    <li>🌱 <strong>Me encuentro inmerso en el aprendizaje de:</strong> Programación en C# con ASP.NET, ADO.NET, .NET CORE, así como también explorando HTML, CSS, Boostrap y JavaScript.</li>
     <li>👯 <strong>Estoy ansioso por colaborar con:</strong> Una empresa que no solo me brinde la oportunidad de aplicar mis conocimientos, sino también de crecer y desarrollarme como programador.</li>
     <li>🤔 <strong>Estoy buscando compañeros apasionados para:</strong> Embarcarnos juntos en emocionantes proyectos. ¡Tu creatividad y experiencia son bienvenidas!</li>
     <li>⚡ <strong>Aunque comencé mi carrera en:</strong> Psicología, mi fascinación por la programación me llevó a explorar este nuevo mundo. ¡Y aquí estoy, enamorado de cada línea de código!</li>
